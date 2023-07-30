@@ -1,2 +1,3 @@
 # hello-world-tomer-shavit
-this is my hello world repo
+My name is Tomer Shavit :)
+# I like cheese cakes
